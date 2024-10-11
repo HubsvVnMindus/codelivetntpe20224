@@ -23,10 +23,44 @@ termux-setup-storage
 ```php
 pkg upgrade -y
 ```
-> Lệnh cài Server
+
 ```php
-wget -O minecraft_server.jar https://api.papermc.io/v2/projects/paper/versions/1.20.2/builds/317/downloads/paper-1.20.2-317.jar
+pkg install nodejs
 ```
+
+```php
+pkg install yarn
+```
+
+```php
+cd /storage/emulated/0/Minecraft/TikTokLiveMCBE
+```
+
+```php
+yarn install
+```
+
+```php
+touch .env
+```
+
+```php
+nano .env
+```
+# bên trong .env ghi như sao
+
+TIKTOK_USERNAME=nhập id tiktok
+PORT=3000
+
+```php
+npm i -g typescript
+```
+
+```php
+npm start
+```
+# lưu ý khi ghi "npm start" phải bật live tiktok trước
+
 # Lưu ý
 Đây là code do mình tìm hiểu mới được nên mọi người không được lấy đi bán lại cho người khác 
           [XIN CẢM ƠN]
