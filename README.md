@@ -1,5 +1,5 @@
 # codelivetntpe20224
-<h1 style="text-align: center;">Lệnh Setup</h1>
+<h1 style="text-align: center;">Lệnh</h1>
 
 <h3 style="text-align: right;">by Gaming Hung - Tiktok: @hungyt345</h3>
 
@@ -12,26 +12,16 @@ map live tnt pe V2 link đang lỗi </a>
 
 <a href="https://vt.tiktok.com/ZS2JaHjRv/" target="_blank">➣Link Hướng dẫn đưa map vào minecraft</a>
 
-<a href="https://youtu.be/9Q5SUZXIWiE?si=ch3liEYcjrtrnNUV" target="_blank">➣Link Hướng dẫn tải map</a>
+<a href="https://youtu.be/9Q5SUZXIWiE?si=ch3liEYcjrtrnNUV" target="_blank">➣Link Hướng dẫn vượt link</a>
 
-> Lệnh bắt đầu 
-```php
-pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh && bash ubuntu.sh
-```
-> Lệnh mở hosting
-```php
-./start-ubuntu.sh
-```
-
-# Setup Server
 
 > Lệnh Setup
 ```php
-apt-get update
+termux-setup-storage
 ```
 
 ```php
-apt-get install openjdk-17-jre
+pkg upgrade -y
 ```
 > Lệnh cài Server
 ```php
