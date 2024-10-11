@@ -49,10 +49,10 @@ nano .env
 ```
 # bên trong .env ghi như sao
 
-> TIKTOK_USERNAME=nhập id tiktok
+TIKTOK_USERNAME=nhập id tiktok
 
-> PORT=3000
-
+PORT=3000
+# -----------------------------
 ```php
 npm i -g typescript
 ```
