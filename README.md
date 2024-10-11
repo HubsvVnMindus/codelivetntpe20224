@@ -5,14 +5,11 @@
 
 `lệnh setup`
 
-<a href="https://apkcombo.com/vi/termux/com.termux/" target="_blank">➣Link Download Termux</a>
+<a href="https://f-droid.org/F-Droid.apk" target="_blank">Link Download Termux</a>
 
-<a href="" target="_blank">➣Link Download 
-map live tnt pe V2 link đang lỗi </a>
+<a href="" target="_blank">Link Download Mod cho tnt live minecraft</a>
 
-<a href="https://vt.tiktok.com/ZS2JaHjRv/" target="_blank">➣Link Hướng dẫn đưa map vào minecraft</a>
-
-<a href="https://youtu.be/9Q5SUZXIWiE?si=ch3liEYcjrtrnNUV" target="_blank">➣Link Hướng dẫn vượt link</a>
+<a href="https://youtu.be/9Q5SUZXIWiE?si=ch3liEYcjrtrnNUV" target="_blank">Link Hướng dẫn vượt link</a>
 
 
 > Lệnh Setup
