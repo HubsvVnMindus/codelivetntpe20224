@@ -7,6 +7,8 @@
 
 <a href="https://f-droid.org/F-Droid.apk" target="_blank">Link Download Termux</a>
 
+<a href="https://file.nestvui.com/BANDISHARE/MCPE/Minecraft_PE_1.21.30_BANDISHARE.apk" target="_blank">Link Download Minecraft 1.21.30</a>
+
 <a href="https://www.mediafire.com/file/m1g6jmrja0p1ky4/TNTCoin.v1.0.0.mcaddon/file" target="_blank">Link Download Mod cho tnt live minecraft</a>
 
 <a href="https://www.mediafire.com/file/taychd47bw9u9ny/TikTokLiveMCBE.zip/file" target="_blank">Link Download TikTokLiveMCBE</a>
