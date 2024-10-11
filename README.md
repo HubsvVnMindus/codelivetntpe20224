@@ -63,7 +63,7 @@ npm start
 # lưu ý khi ghi "npm start" phải bật live tiktok trước
 
 # Lưu ý
-Đây là code do mình tìm hiểu mới được nên mọi người không được lấy đi bán lại cho người khác 
+mọi người không được lấy đi bán lại cho người khác 
           [XIN CẢM ƠN]
 > Vào discord xem thêm ➢
 <a href="https://discord.com/invite/bEqZaNk3hw" target="_blank">Discord</a>
