@@ -5,7 +5,7 @@
 
 `lệnh setup`
 
-<a href="https://f-droid.org/F-Droid.apk" target="_blank">Link Download Termux</a>
+<a href="https://f-droid.org/repo/com.termux_1020.apk " target="_blank">Link Download Termux</a>
 
 <a href="https://file.nestvui.com/BANDISHARE/MCPE/Minecraft_PE_1.21.30_BANDISHARE.apk" target="_blank">Link Download Minecraft 1.21.30</a>
 
